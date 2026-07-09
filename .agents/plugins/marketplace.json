@@ -1,13 +1,19 @@
 {
+  "name": "opus-design-marketplace",
   "plugins": [
     {
-      "id": "opus-design-plugin",
+      "name": "opus-design-plugin",
+      "category": "UTILITIES",
       "source": {
         "type": "local",
         "path": "./"
       },
       "interface": {
         "displayName": "Opus Design Plugin Suite"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "NONE"
       }
     }
   ]
