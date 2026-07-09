@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "id": "opus-design-plugin",
+      "source": {
+        "type": "local",
+        "path": "./"
+      },
+      "interface": {
+        "displayName": "Opus Design Plugin Suite"
+      }
+    }
+  ]
+}

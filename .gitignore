@@ -4,5 +4,4 @@ Thumbs.db
 
 # Developer/Agent caches
 .codex/
-.agents/
 *.log
