@@ -1,0 +1,25 @@
+{
+  "name": "opus-design-plugin",
+  "version": "0.1.0",
+  "description": "A comprehensive frontend engineering, design system orchestrator, and UI/UX asset bundle.",
+  "contributes": {
+    "chatSkills": [
+      {
+        "path": "../skills/ultimate-design-guideline/SKILL.md",
+        "orchestrator": true
+      },
+      { "path": "../skills/animation-vocabulary/SKILL.md" },
+      { "path": "../skills/brandkit/SKILL.md" },
+      { "path": "../skills/design-taste-frontend/SKILL.md" },
+      { "path": "../skills/emil-design-eng/SKILL.md" },
+      { "path": "../skills/high-end-visual-design/SKILL.md" },
+      { "path": "../skills/imagegen-frontend-mobile/SKILL.md" },
+      { "path": "../skills/imagegen-frontend-web/SKILL.md" },
+      { "path": "../skills/impeccable/SKILL.md" },
+      { "path": "../skills/industrial-brutalist-ui/SKILL.md" },
+      { "path": "../skills/minimalist-ui/SKILL.md" },
+      { "path": "../skills/redesign-existing-projects/SKILL.md" },
+      { "path": "../skills/review-animations/SKILL.md" }
+    ]
+  }
+}
